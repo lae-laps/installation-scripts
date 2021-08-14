@@ -8,7 +8,7 @@ echo "$start This script will install Apache server on Debian based machines ~ M
 echo "$start Please execute this script as stem on VPS or machine to install apache ~ Can be used through SSH $end "
 echo "$start Beggining installation $end"
 echo "$start ↓ Input password for root (will be needed for installation process) $end"
-read password
+read -p "sudo password: " password
 echo "$start Updating apt $end"
 sudo -p $password apt update
 echo "$start Installing apache2 package $end"
