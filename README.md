@@ -2,7 +2,7 @@
 A series of installation scripts for linux command line
 
 # ApacheInstall
-Apache installation script for Debian based distros ( and ubuntu )
+Apache installation script for Debian based distros ( includes ubuntu )
 ## Use
 
 ```$ git clone https://lae-laps/installation-scripts/ ```
