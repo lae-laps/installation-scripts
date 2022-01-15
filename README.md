@@ -5,9 +5,9 @@ A series of installation scripts for linux command line
 Apache installation script gor Debian based distros ( and ubuntu )
 ## Use
 
-```$ git clone https://lae-laps/ApacheInstall/ ```
+```$ git clone https://lae-laps/installation-scripts/ ```
 
-```$ cd ApacheInstall/```
+```$ cd installation-scripts/```
 
 ```chmod +x install-apache.sh```
 
