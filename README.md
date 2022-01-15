@@ -2,13 +2,13 @@
 A series of installation scripts for linux command line
 
 # ApacheInstall
-Apache installation script gor Debian based distros ( and ubuntu )
+Apache installation script for Debian based distros ( and ubuntu )
 ## Use
 
 ```$ git clone https://lae-laps/installation-scripts/ ```
 
 ```$ cd installation-scripts/```
 
-```chmod +x install-apache.sh```
+```chmod +x ApacheInstall.sh```
 
-```./install-apache.sh```
+```./ApacheInstall.sh```
